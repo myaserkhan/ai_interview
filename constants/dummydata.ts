@@ -27,7 +27,7 @@ export const dummyInterviews: Interview[] = [
     role:"Full-stack Developer",
     type:"Technical",
     techstack:["React", "Node.js", "Express.js", "MongoDB"],
-    level:"Junior",
+    level:"Senior",
     questions: ["What is React", "What is Node.js"],
     finalized: false,
     createdAt:"2025-03-15T10:00:00Z",
